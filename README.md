@@ -59,6 +59,7 @@ Please share your Github account details so that I can add you to the Project Re
 I have created teamwise branches in the repository where you will push your codes and commit your changes to the codes. Having the entire project in one repository will make it easy to manage. 
 
 A guide that helps in the structuring of the project: [Project Structuring](https://docs.python-guide.org/writing/structure/)
+
 I expect a well structured (hence the project name :p) and nicely documented project. Go through this as well. A lot of companies expect this kind of documentation for version-controlled projects that you’ll do in your life ahead.
 
 So, basic targets for this Week  -
