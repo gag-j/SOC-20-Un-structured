@@ -12,11 +12,11 @@ So, let's dwell deep into the technicalities of the project. In simple words, th
 
 ## Initial References 
 
-[CPP](https://www.learncpp.com/) (although we won’t be using CPP it’s a good idea to refresh)
-[Pyhton](https://www.learnpython.org/)
-[Python Practice](https://www.hackerrank.com/domains/python)
-[Deep Learning](https://www.coursera.org/specializations/deep-learning)
-[Intro to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
+* [CPP](https://www.learncpp.com/) (although we won’t be using CPP it’s a good idea to refresh)
+* [Pyhton](https://www.learnpython.org/)
+* [Python Practice](https://www.hackerrank.com/domains/python)
+* [Deep Learning](https://www.coursera.org/specializations/deep-learning)
+* [Intro to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 
 ## Rough Timeline
 
