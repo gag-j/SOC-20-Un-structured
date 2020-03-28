@@ -45,7 +45,7 @@ Team 1 | Team 2 | Team 3 | Team 4
 Ritwik | Suraj | Aryan | Aman
 Deepanshu | Supreet | Param | Manan
 Heetak | Vaishnavi | Nabarun | Anupam
-
+- | - | Sudheeradh | -
 ## Weekly Targets
 
 ### Week 1 (22nd March - 28th March)
