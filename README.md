@@ -80,7 +80,7 @@ So, basic targets for the Week -
 * Go through the paper which implements text recognition nicely
 * Start learning DL (at least cover the first two courses in this week. Don’t think much about the week-wise distribution of * content given in the courses. It’s a scam!)
 
-Week 3 (5th April - 11th April)
+### Week 3 (5th April - 11th April)
 
 Continue with the DL specialization and complete the planned content. Also, start working on the standard classification problem of handwritten digits (MNIST dataset) once you are done with the courses. This will give you a feel of what it is like to implement a network architecture from scratch and what things you should keep in mind. The model should be capable of achieving an accuracy of at least 95% (perfectly doable, don’t worry). Also, go through the reference literature again. 
 
