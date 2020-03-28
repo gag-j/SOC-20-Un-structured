@@ -48,7 +48,7 @@ Heetak | Vaishnavi | Nabarun | Anupam
 
 ## Weekly Targets
 
-### Week 1
+### Week 1 (22nd March - 28th March)
 
 Start off by refreshing your python programming skills. Try solving some questions on websites like Hackerrank, etc. This way, you'll get familiar with the basic syntax. And for the rest, you can always google as and when required. Also, learn how to work with GitHub, create a profile if you don’t have one, and learn basic operations like pull, push, merge, etc. You can create a repository and push your python practice codes to that.
 Also, I'd recommend setting up Ubuntu as it's much more convenient but it is up to you. For converting the problem to code, you'll work on Google Collab so it doesn't matter much.
@@ -69,6 +69,28 @@ So, basic targets for this Week  -
 * Go through the documentation strategies.
 * (Headstart for Week 2) Start brainstorming about how to go about various components of the project.
 
+### Week 2 (29th March - 4th April)
+
+So, having gone through the basics of python and some documentation stuff, now you should start exploring the area of Deep Learning. FYI Deep Learning (referred to as DL from now on) is a subset of Machine Learning (ML), but for our purpose, we’ll directly jump to the DL part. You are encouraged to look at the traditional Machine Learning techniques as well if you have time. So, I’d recommend starting with the DL specialization by Andrew NG on Coursera (I’ve shared the link earlier). You are expected to go through the first four courses. The first course introduces you to the cool things you’ll be doing. The second and third courses will teach you a lot of concepts (read life hacks) to improve your performance. The fourth course is the most important one, which will help you understand Convolutional Neural Networks (CNNs) which we will be frequently using. While going through the course assignments, pay attention to small details (coz a lot of code is already written there and you just have to fill in stuff). 
+
+Other than this, I have shared a paper that uses text recognition on GitHub. Go through it properly. Give it a quick read before you start learning DL and mark the points/terms you do not understand. After you finish off your learning, you will start working on implementing the paper (probably two weeks from now)
+
+So, basic targets for the Week - 
+
+* Go through the paper which implements text recognition nicely
+* Start learning DL (at least cover the first two courses in this week. Don’t think much about the week-wise distribution of * content given in the courses. It’s a scam!)
+
+Week 3 (5th April - 11th April)
+
+Continue with the DL specialization and complete the planned content. Also, start working on the standard classification problem of handwritten digits (MNIST dataset) once you are done with the courses. This will give you a feel of what it is like to implement a network architecture from scratch and what things you should keep in mind. The model should be capable of achieving an accuracy of at least 95% (perfectly doable, don’t worry). Also, go through the reference literature again. 
+
+Here is a link to the digit classification problem: [Handwritten Digit Classification](https://www.kaggle.com/c/digit-recognizer/overview)
+
+So, basic targets for the Week -
+
+* Complete the DL specialization (Course 3 and Course 4)
+* Re-read the reference literature on the problem
+* Write an image classification network architecture for handwritten for the MNIST dataset.
 
 
 
