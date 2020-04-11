@@ -107,6 +107,7 @@ Get started with this:
 * [1](https://towardsdatascience.com/image-pre-processing-c1aec0be3edf)
 * [2](https://medium.com/cashify-engineering/improve-accuracy-of-ocr-using-image-preprocessing-8df29ec3a033)
 * [3](https://www.researchgate.net/publication/221909023_Preprocessing_Techniques_in_Character_Recognition)
+
 This should suffice, i guess. Once you start building your model, you will realize how to go about things and implement them. Also, one early suggestion, when you reach the training stage, make sure that your model works, i.e., training starts without any errors on a smaller portion of a dataset (say 10 images). See that you get some values of loss and accuracy, no matter whatever they are. Once you are sure of this, import the complete dataset and start training. You can also use the same trick while trying to improve your model by tuning.
 
 
