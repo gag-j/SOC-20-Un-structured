@@ -89,8 +89,17 @@ Here is a link to the digit classification problem: [Handwritten Digit Classific
 So, basic targets for the Week -
 
 * Complete the DL specialization (Course 3 and Course 4)
-* Re-read the reference literature on the problem
 * Write an image classification network architecture for handwritten for the MNIST dataset.
+
+### Week 4 (12th April - 18th April)
+
+Some of you still have your courses going on, so for this week, the targets are as follows -
+ * Complete the courses 
+ * Train a model for the MNIST task mentioned earlier. Try to change the hyperparams and network architechure to maximize accuracy. Work in your teams of 3 to do this. Push the code in your individual team branches by this Saturday.
+ * Re-read the reference literature on the problem
+ * After reading the paper, start working on the detection task as mentioned in the paper. Use the street view dataset for the task as used in the paper. 
+ 
+ These tasks are mentioned in the decreasing order of priority for this week. By the end of the week, make sure that you have completed atleast the first three tasks which are mentioned here.
 
 
 
