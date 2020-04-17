@@ -110,6 +110,12 @@ Get started with this:
 
 This should suffice, i guess. Once you start building your model, you will realize how to go about things and implement them. Also, one early suggestion, when you reach the training stage, make sure that your model works, i.e., training starts without any errors on a smaller portion of a dataset (say 10 images). See that you get some values of loss and accuracy, no matter whatever they are. Once you are sure of this, import the complete dataset and start training. You can also use the same trick while trying to improve your model by tuning.
 
+Here are some resources for the Bounding Box algorithm -
+* [bounding box](https://pdollar.github.io/files/papers/ZitnickDollarECCV14edgeBoxes.pdf)
+* [implementation](https://github.com/pdollar/edges)
+
+* Learn the concept of IOU (intersection over union). We'll use that as an evaluative metric.
+
 
 
 
