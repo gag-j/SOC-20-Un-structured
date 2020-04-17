@@ -113,6 +113,9 @@ This should suffice, i guess. Once you start building your model, you will reali
 Here are some resources for the Bounding Box algorithm -
 * [bounding box](https://pdollar.github.io/files/papers/ZitnickDollarECCV14edgeBoxes.pdf)
 * [implementation](https://github.com/pdollar/edges)
+* [blog](https://blog.csdn.net/wsj998689aa/article/details/39476551) You'll have to use google translate :p
+
+* [YOLO](https://medium.com/analytics-vidhya/yolo-v3-theory-explained-33100f6d193)
 
 * Learn the concept of IOU (intersection over union). We'll use that as an evaluative metric.
 
