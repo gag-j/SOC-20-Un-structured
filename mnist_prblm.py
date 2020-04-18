@@ -55,4 +55,4 @@ history.history['accuracy']
 #print the accuracy over the test data
 score = model.evaluate(x_test, y_test, verbose = 0)
 print('test loss :', score[0])
-print('test accuracy :' + str(100 * score[1]) + "%")
+print('test accuracy :' score[1])
