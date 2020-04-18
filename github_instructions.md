@@ -6,7 +6,7 @@
 ## Configuring GitHub
 
 * Follow these steps on the terminal
-* git config --global user.name <Your name here>
+* git config --global user.name <name>
 * git config --global user.email <your_email>
 
 ## Working with Github
