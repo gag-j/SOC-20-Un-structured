@@ -1,8 +1,19 @@
+## Installing Git on local machine
+
+* Open a terminal and type - *apt-get install git*
+* This should install Git on your local machine. In case you get a dependency error use *sudo apt-get install git*
+
+## Configuring GitHub
+
+* Follow these steps on the terminal
+* git config --global user.name <Your name here>
+* git config --global user.email <your_email@example.com>
+
 ## Working with Github
 
 Here I am listing a few simple Github commands to help you work with Github for the project.
 
-* Copy the repository URL.
+* Copy the repository URL online.
 * Open a terminal in the folder where you want to have a local copy of the repository.
 * To clone the repository - *git clone <repository_url>*
 * You can list all branches by - *git branch -a*
@@ -18,3 +29,4 @@ Here I am listing a few simple Github commands to help you work with Github for 
 * To push the changes to your branch - *git push origin <branch_name>*
 * You should now be able to see the changes on GitHub
 * Cheers!
+* In case there are changes online which are not present on your local copy- *git pull origin <branch_name>*
