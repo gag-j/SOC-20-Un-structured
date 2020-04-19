@@ -120,6 +120,15 @@ Here are some resources for the Bounding Box algorithm -
 * Learn the concept of IOU (intersection over union). We'll use that as an evaluative metric.
 
 
+### Week 5 (19th April - 25th April)
+
+Okay so I am assuming that all of you have completed the courses. Some of you have still not completed your MNIST problem. I urge you to do that as soon as possible. Not only because the problem is a simpler version of our project target, but also because training a ML model from scratch gives you an exposure to the various different programming practices. 
+
+Talking about the week's targets, you are now required to work in teams and on every branch, there should be a single file for a specific task. You are encouraged to divide tasks among yourselves. The major target for this week is to complete the data loading part for the project. I assume that you have gone through the paper which we will be implementing.  By the end of the week, you should be completely ready to build a training model and start training. This will require proper data preprocessing, ensuring proper input to the network. The dataset which we will use for the project is the same which was mentioned in the paper (Street View). 
+
+I have already shared some resources for your help. In case of doubts, give a try to solve the problems by yourself. Google things and understand potential solutions to your problems. And if you don't find a solution, feel free to post on the group.
+
+
 
 
 
