@@ -59,3 +59,4 @@ print(result)
 
 submission_file = pd.concat([pd.Series(range(1, 28001), name="Id"), result], axis=1)
 submission_file.to_csv("submission_file.csv", index=False)
+
