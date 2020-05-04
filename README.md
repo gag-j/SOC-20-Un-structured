@@ -128,10 +128,13 @@ Talking about the week's targets, you are now required to work in teams and on e
 
 I have already shared some resources for your help. In case of doubts, give a try to solve the problems by yourself. Google things and understand potential solutions to your problems. And if you don't find a solution, feel free to post on the group.
 
-### Week 6 (26th April - 2th April)
+### Week 6 (26th April - 2nd May)
 
 Ok, after you finish your data loading and pre-processing part, you can start implementing the model for training. In case you're still lagging behind in your data part, you should be complelety done with that part by Tuesday. As I also mentioned on the group, you can also try different architechures for your training and see how they work, but the basic target for this week is that every team should be ready with atleast one working training model. For now, it is fin if the accuracy is not good enough, we will dedicate time in the next week for fine-tuning the model as well. In case you finish early with the model, you can start hyperparams tuning for your model. Some resources are already posted (under WEEK 4). For specific doubts, try to google them and try to resolve them by yourselves. If in case you're still stuck, tell me ASAP. Note that there is no issue if you directly ask me doubts, but "Googling" is an important skill in programming, so also try figuring out things by yourselves :)
 
 
+### Week 7 (3th May - 9th May)
+
+So, a lot of you haven't completed the training part completely, so continue working on that. Some of you are finding it easier to work with YOLO, so you can proceed with that. Keep it a target to complete the training with a good accuracy by the end of the week. Needless to say, but work on a train-test split so that you can validate your model quantitatively. In case you complete this early, the next task will be to start working on Recognition. Try exploring methods for recognition. Note that this is only after you complete the detection part, and is formally the task for next week.
 
 
