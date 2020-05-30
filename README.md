@@ -3,5 +3,4 @@ We all have used scanned copies of books and have been irritated by the fact tha
 
 So, let's dwell deep into the technicalities of the project. In simple words, the problem we're targeting is as follows - "You have an image as an input which contains text at certain locations in the image. You need to detect the text and generate the text present in the input as the output. This involves segmenting the given image to focus only on the part of the image which contains text. Then you need to implement text recognition to generate the output."
 
-PROJECT PROGRESS REPORT-
-ARYAN KOLAPKAR -https://docs.google.com/document/d/1v4kwwSgxz0GHKs_5VDCbY-aFGRkevEoFAxsHWuFWzy4/edit?usp=sharing
+ 
