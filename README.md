@@ -2,7 +2,7 @@
 
 This is a project I have undertaken as a part of Seasons of Code 2020, organised by the Web and Coding Club, IIT Bombay.
 
-![](/cover.png)
+![](/cover.png) 
 ## Project Description
 
 The goal is to detect and recognize text from natural scene images - *text spotting*. The motivation behind the project can be found in this research paper: [Reading Text in the Wild](https://arxiv.org/pdf/1412.1842).
@@ -59,3 +59,5 @@ The text recognition process can be summarized as :
 - [ ] Add background, foreground and border coloring
 - [ ] Incorporate [Google Fonts](https://github.com/google/fonts) into text generator for better training data
 - [ ] Apply natural image blending while generating text     
+##### Note
+The above jupyter notebooks were created and run on [Google Colab](https://colab.research.google.com/), thanks to the amazing free GPU and pre-downloaded packages offered by Google. It would be advisable to download these notebooks and upload them to Google Colab to edit/run them.  
