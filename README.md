@@ -4,7 +4,7 @@ This is a project I am undertaking as a part of Seasons of Code 2020, organised 
 ![](/cover.png)
 ## Project Description
 
-The goal is to detect and recognize text from natural images - text spotting. The motivation behind the project can be found in this research paper: [Reading Text in the Wild](https://arxiv.org/pdf/1412.1842).
+The goal is to detect and recognize text from natural scene images - *text spotting*. The motivation behind the project can be found in this research paper: [Reading Text in the Wild](https://arxiv.org/pdf/1412.1842).
 
 Broadly - the task can be divided into 2 parts - detection and recognition.
 We employ the [YOLOv2](https://pjreddie.com/darknet/yolov2/) algorithm to perform the detection task. The original YOLOv2 research paper is available [here](https://arxiv.org/pdf/1612.08242.pdf). We generate candidate *bounding boxes* (rectangles that completely enclose text) for each occurance of text in the image, which we crop from the original image and feed to the recognition model.
@@ -46,7 +46,7 @@ The recognition process can be summarized as :
 1. Concatenate the individual word lists of each image to create a master LEXICON for classification
 2. Generate training images, editing background, skew and distortion as required using the Data Generator
 3. Generate training and validation datasets
-4. Design and train the Convolutional Neural Network as advised in [Reading Text in the Wild]((https://arxiv.org/pdf/1412.1842), tune the model for best validation accuracy
+4. Design and train the Convolutional Neural Network as advised in [Reading Text in the Wild](https://arxiv.org/pdf/1412.1842), tune the model for best validation accuracy
 
 [End-To-End](end_to_end.ipynb)
 
