@@ -2,7 +2,6 @@
 
 This is a project I am undertaking as a part of Seasons of Code 2020, organised by the Web and Coding Club, IIT Bombay
 ![](/cover.png)
-
 ## Project Description
 
 The goal is to detect and recognize text from natural images - text spotting. The motivation behind the project can be found in this research paper: [Reading Text in the Wild](https://arxiv.org/pdf/1412.1842).
@@ -42,13 +41,13 @@ about a particular image
 
 The recognition process can be summarized as :
 
-[image-cnn](image_cnn.ipynb)
+[Image-CNN](image_cnn.ipynb)
 
 1. Concatenate the individual word lists of each image to create a master LEXICON for classification
 2. Generate training images, editing background, skew and distortion as required using the Data Generator
 3. Generate training and validation datasets
 4. Design and train the Convolutional Neural Network as advised in [Reading Text in the Wild]((https://arxiv.org/pdf/1412.1842), tune the model for best validation accuracy
 
-[end-to-end](end_to_end.ipynb)
+[End-To-End](end_to_end.ipynb)
 
 5. Use the above model to make predictions and append predicted labels to the list of dictionaries 
